@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetworkingAndroidHttpClientXML</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_data_string">Load Data</string>
+    <string name="title_activity_networking_android_http_client_xml">
+        NetworkingAndroidHttpClientXMLActivity
+    </string>
+</resources>
